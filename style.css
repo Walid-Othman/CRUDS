@@ -10,6 +10,11 @@ body{
     color: white; */
 }
 
+button{
+    border: none;
+    outline: none;
+}
+
 .container{
     margin:auto;
    text-align: center;
@@ -136,7 +141,7 @@ input{
 
 .output .serch input{
     width: 50%;
-    margin: auto;
+    margin: 15px auto;
 }
 
 .hidn{
