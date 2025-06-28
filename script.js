@@ -392,7 +392,7 @@ let btnUp = document.getElementById('btnUp')
 
 
 window.addEventListener('scroll', function () {
-    if (window.scrollY < (600)) {
+    if (window.scrollY < (300)) {
         btnUp.classList.add('hide')
     } else {
         btnUp.classList.remove('hide')
