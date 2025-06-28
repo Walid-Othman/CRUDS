@@ -277,7 +277,7 @@ html,body{
 .footer.p{
     margin-top: 6px !important;
     margin-top: 10px;
-    color: black !important;
+
     
 }
 
@@ -354,7 +354,6 @@ html,body{
 }
 .footer p{
     font-size: 12px;
-    color: black !important;
     margin-top: 10px;
 }
 }
