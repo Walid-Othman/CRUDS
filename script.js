@@ -159,7 +159,7 @@ categry.addEventListener('input', function () {
 })
 
 count.addEventListener('input', function () {
-    count.style.borderColor = ''
+    count.style.background = ''
     count.placeholder = ' count'
 })
 
