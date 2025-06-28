@@ -300,7 +300,7 @@ html,body{
   overflow-x: auto;            /* يسمح بالسكرول الأفقي فقط */
        /* يمنع أي سكرول رأسي داخل الحاوية */
   width: 100%;
-     height: 50vh;
+  height: 50vh;
   display: block;
   -webkit-overflow-scrolling: touch; /* سلاسة في الموبايل */
 }

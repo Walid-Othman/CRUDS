@@ -129,8 +129,8 @@ submit.addEventListener('click', function () {
         else if (count.value > 100) {
             count.focus()
             count.value = ''
-            count.style.borderColor = 'red'
-            count.placeholder = 'plese chose from 1 to 100'
+            count.style.background = 'red'
+            count.placeholder = 'Please choose from 1 to 100'
         }
 
 
