@@ -392,7 +392,7 @@ let btnUp = document.getElementById('btnUp')
 
 
 window.addEventListener('scroll', function () {
-    if (window.scrollY < (300)) {
+    if (window.scrollY < (600)) {
         btnUp.classList.add('hide')
     } else {
         btnUp.classList.remove('hide')
@@ -438,4 +438,8 @@ dark.addEventListener('click', function () {
 
 })
 
-
+window.addEventListener('DOMContentLoaded',function(){
+   alert(`تم الانشاء والتطوير بواسطه المطور : وليد عثمان
+     المطور غير مسؤل عن اي بيانات ان فقدت في حال استخدام هذا التطبيق قبل التواصل معه .
+📞 +996572905568`)
+})
